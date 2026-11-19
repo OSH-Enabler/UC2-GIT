@@ -5,13 +5,13 @@ version = "2026-08-10"
 repository = "https://github.com/OSH-Enabler/UC2-GIT"
 
 # The name of your project.
-name = "My Project"
+name = "UC2 - Open and Modular Optical Toolbox"
 
 # (optional) The licenses of your project. Possible values are the SPDX IDs according to https://spdx.org/licenses.
 licenses = ["CERN-OHL-1.2", "CC-BY-4.0", "MIT"]
 
 # (optional) Link to the documentation of your project.
-documentation = "https://github.com/my-developer-name/my-project/wiki"
+documentation = "https://github.com/OSH-Enabler/UC2-GIT/tree/master/TUTORIALS"
 
 # (optional) Link to the issue/bug tracker of your project.
 issues = "https://github.com/OSH-Enabler/UC2-GIT/issues"
