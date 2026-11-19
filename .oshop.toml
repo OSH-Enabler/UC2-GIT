@@ -1,0 +1,26 @@
+# The version of the .oshop.toml schema.
+version = "2026-08-10"
+
+# Link to the root directory of your project’s repository.
+repository = "https://github.com/OSH-Enabler/UC2-GIT"
+
+# The name of your project.
+name = "My Project"
+
+# (optional) The licenses of your project. Possible values are the SPDX IDs according to https://spdx.org/licenses.
+licenses = ["CERN-OHL-1.2", "CC-BY-4.0", "MIT"]
+
+# (optional) Link to the documentation of your project.
+documentation = "https://github.com/my-developer-name/my-project/wiki"
+
+# (optional) Link to the issue/bug tracker of your project.
+issues = "https://github.com/OSH-Enabler/UC2-GIT/issues"
+
+# (optional) Link to the releases of your project.
+releases = "https://github.com/OSH-Enabler/UC2-GIT/releases"
+
+# (optional) Link to the hardware bill of material of your project.
+# bom = "https://github.com/OSH-Enabler/UC2-GIT/tree/main/bom"
+
+# (optional) Useful keywords for your project (e.g. "Electronics", "3D-Printing", "Wearables", "Art", "Education", "Tools", "Furniture", ...)
+keywords = ["diy", "incubator", "microscope", "printing-3d", "python", "raspberry-pi"]
